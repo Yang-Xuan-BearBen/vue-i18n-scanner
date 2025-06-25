@@ -1,0 +1,42 @@
+[
+  {
+    "file": "src\\Hello.vue",
+    "text": "你好，欢迎使用系统",
+    "loc": 3
+  },
+  {
+    "file": "src\\Hello.vue",
+    "text": "点击提交",
+    "loc": 5
+  },
+  {
+    "file": "src\\Hello copy.vue",
+    "text": "你好，欢迎使用系统",
+    "loc": 3
+  },
+  {
+    "file": "src\\Hello copy.vue",
+    "text": "点击提交",
+    "loc": 5
+  },
+  {
+    "file": "src\\Hello copy 3.vue",
+    "text": "你好，欢迎使用系统",
+    "loc": 3
+  },
+  {
+    "file": "src\\Hello copy 3.vue",
+    "text": "点击提交",
+    "loc": 5
+  },
+  {
+    "file": "src\\Hello copy 2.vue",
+    "text": "你好，欢迎使用系统",
+    "loc": 3
+  },
+  {
+    "file": "src\\Hello copy 2.vue",
+    "text": "点击提交",
+    "loc": 5
+  }
+]
