@@ -1,12 +1,13 @@
 {
-  "name": "vue-i18n-scanner",
+  "name": "node-i18n-yx",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "scan": "node scanVueProject.js",
-    "report": "node generateI18nReport.js"
+    "scan-only": "./bin/scanVueProject.js",
+    "report": "./bin/generateI18nReport.js",
+    "scan-i18n": "./bin/scan-i18n.js"
   },
   "keywords": [],
   "author": "",
